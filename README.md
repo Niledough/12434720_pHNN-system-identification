@@ -76,7 +76,7 @@ As the phenomena that the pHNN wants to recover can often be described by simple
 | Building an application            | Small demo showing rollouts, learned force and damping, and energy over time compared to ground truth | 10 h     |
 | Writing the final report           | Method, experiments, results, discussion                     | 12 h     |
 | Preparing the presentation         | Slides and rehearsal                                         | 3 h      |
-| **Total**                          |                                                              | **75 h** |
+| **Total**                          |                                                              | **49 h** |
 
 Incorporating known forcing terms for control is a stretch goal and is not included in this estimate.
 
